@@ -21,12 +21,6 @@ export default class NavBar extends Component {
                             <Link to="/add_soil" className="nav-link">Add Soil</Link>
                         </li>
                         <li className="navbar-item">
-                            <Link to="/tomatoes" className="nav-link">Tomatoes</Link>
-                        </li>
-                        <li className="navbar-item">
-                            <Link to="/add_tomatoes" className="nav-link">Add Tomatoes</Link>
-                        </li>
-                        <li className="navbar-item">
                             <Link to="/production" className="nav-link">Production</Link>
                         </li>
                         <li className="navbar-item">
